@@ -11,9 +11,9 @@ public class UnitsHardcodedService {
     private static long idCounter = 0;
   
     static {
-      units.add(new Unit(++idCounter, "Pecorine", true));
-      units.add(new Unit(++idCounter, "Kokkoro", true));
-      units.add(new Unit(++idCounter, "Kyaru", true));
+      units.add(new Unit(++idCounter, "Tom", true));
+      units.add(new Unit(++idCounter, "Dick", true));
+      units.add(new Unit(++idCounter, "Harry", true));
     }
   
     public List<Unit> findAll() {
