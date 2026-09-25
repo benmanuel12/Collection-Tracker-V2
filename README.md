@@ -1,6 +1,6 @@
 # Collection Tracker V2
 
-This was my first attempt at creating a collection tracking webpage for games that let you collect characters.
+This was my second attempt at creating a collection tracking webpage for games that let you collect characters.
 You would be able to view a grid of characters icons on the screen which were grayed out, and if you clicked on one, it became full color,
 and it was marked as collected.
 This took me several attempts to create, and this time I tried with Java and Spring Boot to more success than V1 (https://github.com/benmanuel12/Collection-Tracker)
